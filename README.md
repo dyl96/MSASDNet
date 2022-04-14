@@ -9,4 +9,4 @@
 #### 或者使用命令行改变图片和模型参数
 ```python prdict_single.py --img_path x.tif --model_path y.pth```
 
-#### 如果你想自己训练，先下载数据集，使用`train.py`即可
+#### 如果你想自己训练，先下载数据集，方法当前文件夹，使用`train.py`即可
