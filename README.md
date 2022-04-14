@@ -11,3 +11,6 @@
 ```python prdict_single.py --img_path x.tif --model_path y.pth```
 
 #### 如果你想自己训练，先下载数据集，放到当前文件夹，使用`train.py`即可
+
+
+@ARTICLE{9502720,  author={Liu, Dongyang and Zhang, Junping and Wu, Yinhu and Zhang, Ye},  journal={IEEE Geoscience and Remote Sensing Letters},   title={A Shadow Detection Algorithm Based on Multiscale Spatial Attention Mechanism for Aerial Remote Sensing Images},   year={2022},  volume={19},  number={},  pages={1-5},  doi={10.1109/LGRS.2021.3100294}}
