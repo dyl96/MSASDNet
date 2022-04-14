@@ -105,7 +105,7 @@ def predict(img_ori, model_path, gt=None):
 # 测试单个图像并显示
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--img', default='./austin22_sub4.tif', type=str, help='The path of shadow image!')
+    parser.add_argument('--img', default='./tyrol-e6_sub3.tif', type=str, help='The path of shadow image!')
     parser.add_argument('--gt', default=None, type=str, help='The path of ground truth!')
 
     args = parser.parse_args()
